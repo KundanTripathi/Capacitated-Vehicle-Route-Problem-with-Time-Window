@@ -1,7 +1,3 @@
-# ------------------------
-# VRPTW: Non-Crossing, Smooth Routes
-# Option A: Single-file implementation
-# ------------------------
 
 import numpy as np
 import pandas as pd
